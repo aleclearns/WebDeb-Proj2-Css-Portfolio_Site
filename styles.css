@@ -1,0 +1,224 @@
+h1 {
+  margin-top: 0;
+  font-family: 'Indie Flower', cursive;
+  font-size: 50px;
+  font-style: italic;
+  margin-bottom: 10px;
+  padding-top: 80px;
+}
+
+h2 {
+  margin-top: 0;
+  font-family: 'Lexend Exa', sans-serif;
+  font-size: 20px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+h3 {
+  margin-top: 20px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+  font-style: italic;
+  margin-bottom: 10px;
+  text-align: center;
+  background-color: #badfdb;
+}
+
+body {
+  margin: 0;
+  font-family: 'Lexend Exa', sans-serif;
+}
+
+table {
+  text-align: center;
+  margin: 0 auto;
+}
+.class1 {
+  text-align: center;
+  margin: auto;
+}
+.class1:hover {
+  color: #49beb7;
+  text-decoration:none;
+}
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  text-decoration: none;
+
+}
+
+a:hover {
+  color: #ff4949;
+  text-decoration: none;
+}
+.fixed_header {
+  margin-top: 0;
+  background-color: #fcf9ea;
+  position: fixed;
+  top:20px;
+  width: 1070px;
+}
+
+
+
+.topcontainer {
+  margin-top: 0;
+  background-color: #fcf9ea;
+  position: relative;
+  height: 520px;
+  width: 1070px;
+}
+
+.middlecontainer {
+  margin-top: 10px;
+  margin-bottom: 0;
+  background-color:#badfdb;
+  width: 1070px;
+}
+
+.bottomcontainer {
+  background-color:#ff4949;
+  margin-top: 0;
+  width: 1070px;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.img1 {
+  position: absolute;
+  top: 150px;
+  left: 680px;
+}
+
+.img2 {
+  position: absolute;
+  top: 163px;
+  left: 210px;
+}
+
+.img3 {
+  position: absolute;
+  top: 300px;
+  left: 150px;
+}
+
+.img4 {
+  position: absolute;
+  top: 350px;
+  left: 600px;
+}
+
+.img5 {
+  position: absolute;
+  top: 150px;
+  left: 800px;
+  height: 150px;
+  width: 150px;
+}
+
+.centeralign {
+  text-align: center;
+  margin-top: 0;
+}
+.pclass1{
+  margin-top: 0;
+  text-align: center;
+  font-family: cursive;
+}
+
+.hr1 {
+  border-width:0 0 10 0;
+  border-top:0;
+  border-left:0;
+  border-right:0;
+  border-style: dotted;
+  width: 10%;
+  margin-top: 0;
+  border-bottom-width:10px;
+  border-color: #49beb7;
+}
+
+.about {
+  position: absolute;
+  display: inline-block;
+  top:10px;
+  left: 750px;
+}
+
+.portfolio {
+  position: absolute;
+  display: inline-block;
+  top:10px;
+  left: 830px;
+}
+
+.contact_me {
+  position: absolute;
+  display: inline-block;
+  top:10px;
+  left: 930px;
+}
+
+.user_img {
+  border-radius: 50%;
+  border-style:dashed double;
+  height: 142px;
+  width: 142px;
+  position: relative;
+  margin-top: 50px;
+  left:460px
+}
+
+.center_p {
+  text-align: center;
+  font-family: 'Lexend Exa', sans-serif;
+  width: 80%;
+  margin: auto auto auto auto;
+  padding-top:20px;
+}
+
+.user_img_ece {
+  border-radius: 50%;
+  border-style:solid;
+  height: 142px;
+  width: 142px;
+  position: relative;
+  margin-top: 10px;
+  left: 140px;
+  background-color: green;
+}
+
+.ece_ {
+  width: 450px;
+  height: 600px;
+  position: absolute;
+  border-style: double;
+  margin-top: 30px;
+  margin-left: 40px;
+}
+
+.it_ {
+  width: 450px;
+  height: 600px;
+  position: relative;
+  border-style: double;
+  top:30px;
+  left: 580px;
+
+}
+
+.ece_skills {
+  background-color:#49beb7;
+  width: 1070px;
+  height: 750px;
+  margin-top: 20;
+  border: 0;
+}
