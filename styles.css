@@ -71,21 +71,21 @@ a:hover {
   margin-top: 0;
   background-color: #fcf9ea;
   position: relative;
-  height: 520px;
-  width: 1070px;
+  /* height: 520px;
+  width: 1070px; */
 }
 
 .middlecontainer {
   margin-top: 10px;
   margin-bottom: 0;
   background-color:#badfdb;
-  width: 1070px;
+  /* width: 1070px; */
 }
 
 .bottomcontainer {
   background-color:#ff4949;
   margin-top: 0;
-  width: 1070px;
+  /* width: 1070px; */
 }
 
 .underline {
@@ -99,8 +99,8 @@ a:hover {
 }
 
 .img2 {
-  position: absolute;
-  top: 163px;
+  position: relative;
+  /* top: 163px; */
   left: 210px;
 }
 
@@ -199,26 +199,26 @@ a:hover {
 .ece_ {
   width: 450px;
   height: 600px;
-  position: absolute;
+  position: relative;
   border-style: double;
   margin-top: 30px;
-  margin-left: 40px;
+  margin-left: 60px;
 }
 
 .it_ {
   width: 450px;
   height: 600px;
-  position: relative;
+  position: absolute;
   border-style: double;
-  top:30px;
-  left: 580px;
+  top:1030px;
+  left: 600px;
 
 }
 
 .ece_skills {
   background-color:#49beb7;
-  width: 1070px;
-  height: 750px;
+  /* width: 1070px; */
+  height: auto;
   margin-top: 20;
   border: 0;
 }
